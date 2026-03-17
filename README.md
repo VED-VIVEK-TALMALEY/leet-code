@@ -16,4 +16,8 @@ leet code journey and problem
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
