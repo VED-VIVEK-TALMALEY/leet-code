@@ -6,6 +6,7 @@ leet code journey and problem
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
@@ -42,4 +43,8 @@ leet code journey and problem
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1768-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
