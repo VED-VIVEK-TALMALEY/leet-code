@@ -28,6 +28,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ leet code journey and problem
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
