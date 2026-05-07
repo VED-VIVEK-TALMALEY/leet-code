@@ -10,10 +10,7 @@ public:
         result="";
        }
        else{
-       while(i<gdd){
-        result+=str1[i];
-        i++;
-       }
+       result = str1.substr(0, gdd);
     }
        return result;
     }
