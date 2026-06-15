@@ -7,6 +7,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0334-increasing-triplet-subsequence) |
@@ -47,6 +48,7 @@ leet code journey and problem
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0344-reverse-string) |
@@ -88,6 +90,7 @@ leet code journey and problem
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
