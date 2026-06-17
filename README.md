@@ -31,6 +31,7 @@ leet code journey and problem
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
