@@ -19,6 +19,7 @@ leet code journey and problem
 | [1470-shuffle-the-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -59,6 +60,7 @@ leet code journey and problem
 | [0344-reverse-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -88,6 +90,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +101,7 @@ leet code journey and problem
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
