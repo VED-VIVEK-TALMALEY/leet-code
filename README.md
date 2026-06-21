@@ -21,6 +21,7 @@ leet code journey and problem
 | [1672-richest-customer-wealth](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ leet code journey and problem
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0605-can-place-flowers) |
+| [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +106,7 @@ leet code journey and problem
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 ## Heap (Priority Queue)
 |  |
@@ -127,4 +130,5 @@ leet code journey and problem
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
