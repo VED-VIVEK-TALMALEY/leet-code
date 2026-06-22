@@ -1,13 +1,12 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-    int len = text.size();
-    unordered_map<char,int> freq;
+   int freq[26]={0};
     for(char c : text ){
-        freq[c]++;
+        freq[c-'a']++;
 
 }
 
-return min({freq['b'], freq['a'], freq['l'] / 2, freq['o'] / 2, freq['n']});
+return min({freq['b'-'a'], freq['a'-'a'], freq['l'-'a'] / 2, freq['o'-'a'] / 2, freq['n'-'a']});
     }
 };
