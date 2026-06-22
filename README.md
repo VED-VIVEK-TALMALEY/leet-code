@@ -39,6 +39,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -136,4 +137,8 @@ leet code journey and problem
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
