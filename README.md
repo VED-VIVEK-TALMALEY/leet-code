@@ -74,6 +74,7 @@ leet code journey and problem
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -94,6 +95,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -130,5 +132,6 @@ leet code journey and problem
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
