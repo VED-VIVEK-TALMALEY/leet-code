@@ -31,6 +31,7 @@ leet code journey and problem
 | [0238-product-of-array-except-self](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
