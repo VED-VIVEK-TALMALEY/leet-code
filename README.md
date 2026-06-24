@@ -31,6 +31,7 @@ leet code journey and problem
 | [0238-product-of-array-except-self](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Matrix
 |  |
@@ -48,6 +49,7 @@ leet code journey and problem
 | [1344-angle-between-hands-of-a-clock](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
