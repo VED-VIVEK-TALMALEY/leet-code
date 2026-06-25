@@ -9,6 +9,7 @@ leet code journey and problem
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0334-increasing-triplet-subsequence) |
@@ -109,12 +110,14 @@ leet code journey and problem
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -124,6 +127,7 @@ leet code journey and problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -157,4 +161,8 @@ leet code journey and problem
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0292-nim-game) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
