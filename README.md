@@ -75,6 +75,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
@@ -102,6 +103,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -113,6 +115,7 @@ leet code journey and problem
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
