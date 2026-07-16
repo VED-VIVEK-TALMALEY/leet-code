@@ -51,6 +51,7 @@ leet code journey and problem
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +166,8 @@ leet code journey and problem
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
