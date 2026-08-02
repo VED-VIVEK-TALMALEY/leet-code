@@ -15,6 +15,7 @@ leet code journey and problem
 | [0334-increasing-triplet-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0605-can-place-flowers) |
+| [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@ leet code journey and problem
 | [0069-sqrtx](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
@@ -100,6 +102,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Hash Table
 |  |
@@ -162,6 +165,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 ## Quickselect
 |  |
 | ------- |
