@@ -15,6 +15,7 @@ leet code journey and problem
 | [0334-increasing-triplet-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -31,6 +32,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
