@@ -29,6 +29,7 @@ leet code journey and problem
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +116,7 @@ leet code journey and problem
 | [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
