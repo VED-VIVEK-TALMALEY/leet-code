@@ -5,7 +5,8 @@ public:
         unordered_set<int> set2(nums2.begin(), nums2.end());
         
         vector<int> diff1, diff2;
-        
+        diff1.reserve(set1.size());
+diff2.reserve(set2.size());
         for (int num : set1) {
             if (set2.find(num) == set2.end()) {
                 diff1.push_back(num);
