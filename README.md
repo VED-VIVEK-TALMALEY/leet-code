@@ -19,6 +19,7 @@ leet code journey and problem
 | [0724-find-pivot-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@ leet code journey and problem
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
