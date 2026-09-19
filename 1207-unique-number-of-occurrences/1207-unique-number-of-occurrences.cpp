@@ -5,6 +5,8 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
+        std::ios_base::sync_with_stdio(false); 
+       cin.tie(NULL);
         unordered_map<int, int> hashMap;
         for(int& x : arr) {
             hashMap[x]++; 
