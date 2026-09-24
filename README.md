@@ -31,6 +31,7 @@ leet code journey and problem
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ leet code journey and problem
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
