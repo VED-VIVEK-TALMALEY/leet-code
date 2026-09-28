@@ -55,6 +55,7 @@ leet code journey and problem
 | [0263-ugly-number](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
+| [0788-rotated-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -120,6 +121,7 @@ leet code journey and problem
 | ------- |
 | [0070-climbing-stairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
+| [0788-rotated-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Hash Table
