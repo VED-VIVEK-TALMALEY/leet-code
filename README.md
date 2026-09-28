@@ -7,6 +7,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -44,11 +45,13 @@ leet code journey and problem
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0070-climbing-stairs) |
