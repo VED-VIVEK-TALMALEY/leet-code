@@ -98,6 +98,7 @@ leet code journey and problem
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3498-reverse-degree-of-a-string) |
@@ -112,6 +113,7 @@ leet code journey and problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -205,4 +207,5 @@ leet code journey and problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
