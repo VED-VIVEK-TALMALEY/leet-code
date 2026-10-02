@@ -93,6 +93,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0344-reverse-string) |
@@ -123,6 +124,7 @@ leet code journey and problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
 | [0788-rotated-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0788-rotated-digits) |
@@ -212,10 +214,15 @@ leet code journey and problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
