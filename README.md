@@ -94,6 +94,7 @@ leet code journey and problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0344-reverse-string) |
@@ -118,6 +119,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
@@ -125,6 +127,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
 | [0788-rotated-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0788-rotated-digits) |
@@ -215,6 +218,7 @@ leet code journey and problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
