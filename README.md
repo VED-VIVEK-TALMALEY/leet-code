@@ -7,6 +7,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0164-maximum-gap) |
@@ -81,6 +82,7 @@ leet code journey and problem
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0283-move-zeroes) |
@@ -113,6 +115,7 @@ leet code journey and problem
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
