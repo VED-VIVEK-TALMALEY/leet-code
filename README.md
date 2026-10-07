@@ -99,6 +99,7 @@ leet code journey and problem
 | [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0412-fizz-buzz) |
@@ -239,4 +240,9 @@ leet code journey and problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
