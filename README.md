@@ -107,6 +107,7 @@ leet code journey and problem
 | [0796-rotate-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -129,6 +130,7 @@ leet code journey and problem
 | [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
@@ -230,6 +232,7 @@ leet code journey and problem
 | [0032-longest-valid-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
