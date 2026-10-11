@@ -207,6 +207,7 @@ leet code journey and problem
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0050-powx-n) |
 ## Brainteaser
 |  |
@@ -262,4 +263,8 @@ leet code journey and problem
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
