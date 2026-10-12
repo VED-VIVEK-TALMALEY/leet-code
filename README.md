@@ -35,6 +35,7 @@ leet code journey and problem
 | [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
@@ -129,6 +130,7 @@ leet code journey and problem
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@ leet code journey and problem
 | [1207-unique-number-of-occurrences](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -269,4 +272,8 @@ leet code journey and problem
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
