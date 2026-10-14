@@ -276,6 +276,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
