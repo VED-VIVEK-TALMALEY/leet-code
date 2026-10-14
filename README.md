@@ -72,6 +72,7 @@ leet code journey and problem
 | [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ leet code journey and problem
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
