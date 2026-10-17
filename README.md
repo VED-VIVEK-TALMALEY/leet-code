@@ -39,6 +39,7 @@ leet code journey and problem
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -171,6 +172,7 @@ leet code journey and problem
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@ leet code journey and problem
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
