@@ -26,6 +26,7 @@ leet code journey and problem
 | [1470-shuffle-the-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1732-find-the-highest-altitude) |
@@ -70,6 +71,7 @@ leet code journey and problem
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
@@ -160,6 +162,7 @@ leet code journey and problem
 | [0392-is-subsequence](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0392-is-subsequence) |
 | [0788-rotated-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Hash Table
 |  |
@@ -179,6 +182,7 @@ leet code journey and problem
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +256,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -301,4 +306,28 @@ leet code journey and problem
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
