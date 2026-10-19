@@ -33,6 +33,7 @@ leet code journey and problem
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -82,6 +83,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
@@ -195,6 +197,7 @@ leet code journey and problem
 | [1679-max-number-of-k-sum-pairs](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
