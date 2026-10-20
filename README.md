@@ -43,6 +43,7 @@ leet code journey and problem
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ leet code journey and problem
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ leet code journey and problem
 | [2333-minimum-sum-of-squared-difference](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,6 +292,7 @@ leet code journey and problem
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
