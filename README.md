@@ -77,6 +77,7 @@ leet code journey and problem
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -132,6 +133,7 @@ leet code journey and problem
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
