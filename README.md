@@ -45,6 +45,7 @@ leet code journey and problem
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -65,6 +66,7 @@ leet code journey and problem
 | [1254-number-of-closed-islands](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -179,6 +181,7 @@ leet code journey and problem
 | [0788-rotated-digits](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VED-VIVEK-TALMALEY/leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
